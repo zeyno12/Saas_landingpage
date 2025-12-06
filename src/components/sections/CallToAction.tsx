@@ -23,7 +23,7 @@ export const CTA = () => {
                             fingertips.
                         </Paragraph>
                         <div className="mx-auto max-w-md sm:max-w-xl pt-10 dark:text-white">
-                            <Button> Get In Touch</Button>
+                            <Button className="text-white"> Get In Touch</Button>
                         </div>
                     </div>
                 </div>
